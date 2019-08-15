@@ -1,0 +1,34 @@
+## ignore folders
+
+# general folders
+node_modules
+bower_components
+
+# wordpress specific
+core
+custom/languages/
+custom/upgrades/
+custom/uploads/
+custom/plugins/
+
+
+## ignore Files
+
+.idea
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+debug.log
+*.psd
+*.ai
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip

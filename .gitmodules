@@ -1,4 +1,4 @@
 [submodule "custom/themes/voodookit"]
 	path = custom/themes/voodookit
-	url = git@github.com-dominicvogl:dominicvogl/wp_voodookit.git
+	url = https://dominicvogl@github.com/dominicvogl/wp_voodookit_framework.git
 	branch = develop

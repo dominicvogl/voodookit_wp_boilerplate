@@ -2,3 +2,6 @@
 	path = custom/themes/voodookit
 	url = https://dominicvogl@github.com/dominicvogl/wp_voodookit_framework.git
 	branch = develop
+[submodule "custom/plugins/dv_jobpress"]
+	path = custom/plugins/dv_jobpress
+	url = https://dominicvogl@github.com/dominicvogl/wp_plugin_jobpress.git

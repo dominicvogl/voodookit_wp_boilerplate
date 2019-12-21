@@ -5,3 +5,6 @@
 [submodule "custom/plugins/dv_jobpress"]
 	path = custom/plugins/dv_jobpress
 	url = https://dominicvogl@github.com/dominicvogl/wp_plugin_jobpress.git
+[submodule "custom/plugins/eu-tracking-wp"]
+	path = custom/plugins/eu-tracking-wp
+	url = https://dominicvogl@github.com/dominicvogl/eu-tracking-wp.git

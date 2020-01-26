@@ -8,3 +8,6 @@
 [submodule "custom/plugins/eu-tracking-wp"]
 	path = custom/plugins/eu-tracking-wp
 	url = https://dominicvogl@github.com/dominicvogl/eu-tracking-wp.git
+[submodule "custom/plugins/gutenberg-block-styles"]
+	path = custom/plugins/gutenberg-block-styles
+	url = https://dominicvogl@github.com/dominicvogl/gutenberg-block-styles.git

@@ -84,7 +84,7 @@ if (!defined('WP_HOME')) {
 
 // Define new folder for contents
 define( 'WP_CONTENT_DIR', dirname( __FILE__ ) . '/custom' );
-define( 'WP_CONTENT_URL', 'http://' . $_SERVER['HTTP_HOST'] . '/custom' );
+define( 'WP_CONTENT_URL', 'https://' . $_SERVER['HTTP_HOST'] . '/custom' );
 
 // define new folder for plugins
 // define( 'WP_PLUGIN_DIR', dirname(__FILE__) . '/plugins' );

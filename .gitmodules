@@ -1,6 +1,0 @@
-[submodule "custom/themes/voodookit"]
-	path = custom/themes/voodookit
-	url = https://dominicvogl@github.com/dominicvogl/wp_voodookit.git
-[submodule "custom/plugins/gutenberg-block-styles"]
-	path = custom/plugins/gutenberg-block-styles
-	url = https://dominicvogl@github.com/dominicvogl/gutenberg-block-styles.git

@@ -1,5 +1,8 @@
 # Changelog
 
+# 2.0.0
+* full rewrite of the code
+
 # 0.1.2
 * some changes and improvements for the wp config files
 
